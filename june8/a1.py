@@ -1,0 +1,1 @@
+print(f"Good Morning {input('Enter your name: ')}. How are you doing")
